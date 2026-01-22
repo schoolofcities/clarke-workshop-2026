@@ -1,0 +1,21 @@
+TTS2022 - unique ID for the zone
+population - total population
+hhlds - total number of households
+hhld_sample - number of households surveyed
+population_density - people per square km
+low_income_hhlds_percent - percent of population that makes less than $60,000
+immig_recent - percent of population that immigrated 2016-2021
+veh_per_hhld - private vehicles (e.g. cars, pickup trucks, etc.) per household
+hhlds_no_veh - percent of households that do not have a car
+drivers_lic_perperson_20to75 - percent of residents aged 20 to 75 that have a driver's license
+transpass_perperson_6up - percent of residents aged 6 and up that have a transit pass
+trip_km_avg - average trip length per km
+trips_5up_per_person - average number trips that people make per day
+activities_mean - average number of places that people visit per day
+mode_bike - percent of trips made by bicycle
+mode_walk - percent of trips made by walking
+mode_transit - percent of trips made by public transit
+mode_drive - percent of trips made by private vehicle (car either as driver or passenger, including taxis, uber)
+trips_less5km_percent - percent of trips made that are less than 5km
+trips_less5km_percent_car - percent of trips less than 5km that are made by private vehicle
+children_driven_to_school - percent of children that are driven to school

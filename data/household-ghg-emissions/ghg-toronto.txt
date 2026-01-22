@@ -1,0 +1,5 @@
+dauid - unique ID for the Dissemination Area
+landarea - land area in m2
+households - number of households
+ghg_total - estimated tonnes of C02eq per year created from household energy and transportation (e.g. driving) use
+ghg_per_household - per capita annual rate of GHG emissions
