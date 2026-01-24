@@ -4,7 +4,7 @@ Software requirement: [QGIS](https://qgis.org/download/)
 
 Tutorial objectives:
 
-1. Overview of QGIS (navigating a map, viewing base maps and data layers, and simple styling of layers)
+1. Overview of QGIS (navigating a map, viewing base maps and data layers, and simple styling of data)
 
 2. How to add in new layers and make a choropleth map (using PM2.5 air pollution data)
 
